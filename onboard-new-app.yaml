@@ -2,11 +2,11 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 # some metadata about the template itself
 metadata:
-  name: Workflows-Quickstart
+  name: Workflows-Quickstart-rsoltys
   title: Provision a New Application Pattern
   description: Creates a new GitHub repository according to standardized application patterns
 spec:
-  owner: TeamA
+  owner: CMF
   type: service
   # these are the steps which are rendered in the frontend with the form input
   parameters:
