@@ -40,7 +40,7 @@ metadata:
     - rsoltys
 spec:
   type: service
-  owner: TeamA
+  owner: CMF
   lifecycle: experimental
   consumesApis:
     - spotify
